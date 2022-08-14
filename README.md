@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Somya Kabra</h1>
-<h3 align="center">A learner</h3>
-<img aling="right" alt="Coding" width="400" scr="https://www.springboard.com/blog/wp-content/uploads/2019/07/coding-for-marketing-using-programming-to-up-your-skills.png">
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=somyakabra&label=Profile%20views&color=0e75b6&style=flat" alt="somyakabra" /> </p>
 
